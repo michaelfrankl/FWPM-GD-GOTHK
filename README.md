@@ -1,5 +1,3 @@
-# FWPM-GD-TDG #
-
 ![GitHub-License](https://img.shields.io/badge/License-MIT-51%2C163%2C63?logo=github)
 ![UnityVersion](https://img.shields.io/badge/Version-2022.1.20f1-blue?logo=unity)
 
