@@ -8,7 +8,7 @@
 ## Teacher/Lecturer: Dr. Waqar Khan
 # Guardians of the Hidden Kingdom
 
-![GamePreview]()
+![BasicGame](https://github.com/michaelfrankl/FWPM-GD-GOTHK/assets/126682182/c19ec51e-2337-40dc-8be9-108712e5d429)
 
 # Main Features #
 
@@ -31,9 +31,9 @@
   - to get the money back, the opponent must be killed before he reaches the portal
 - The difficulty adjusts with the waves
 
-![GamePreview2]()
+![Placement](https://github.com/michaelfrankl/FWPM-GD-GOTHK/assets/126682182/1cff1770-728c-4faa-b342-0d1f8b2512f2)
 
-![GamePreview3]()
+![Upgrade](https://github.com/michaelfrankl/FWPM-GD-GOTHK/assets/126682182/1c0cd4b1-d232-421d-8a1f-c66db21e9a18)
 
 
 # WebGL Version #
@@ -52,6 +52,7 @@ For a smooth process and to use the zoom functionality, please use the desktop v
 
 <seealso>
     <category ref="wrs">
+      
 <a href="https://assetstore.unity.com/packages/3d/environments/fantasy/tower-defense-level-kit-49920">Tower Defense Level Kit</a>
 
 <a href="https://assetstore.unity.com/packages/3d/environments/fantasy/top-down-assets-5806">Top-Down Assets</a>
